@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>RESUME</title>
+	</head>
+	<body>
+		<h1><strong>NAME:</strong>Nihal Khan</h1>
+		<img src="photo.jpg">
+		<h2><strong>EDUCATION:</strong></h2>
+		<ul>
+			<li><strong>schooling :</strong>INDIAN CENTRAL SCHOOL KUWAIT</li>
+			<li><strong>college:</strong> SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY</li>
+
+
+
+		</ul>
+		<h2>ACHIEVEMENTS</h2>
+		<ol>
+			<li>participated in the ml workshop 2019</li>
+			<li>national level basketball player</li>
+			<li>2018 cbse athletics meet kuwait 4*400 relay runners up</li>
+		</ol>
+		<h2>SKILLS</h2>
+		<ul>
+			<li>fluent knowledge in python,c,c++</li>
+			<li>basic app deveopment using python libraries tkiner and kiwi</li>
+			<li>fluent in semi basic machine learning algorithms under supervised learning</li>
+		</ul>
+		
+		
+
+
+		
+		
+		
+	</body>
+
+
+
+</html>

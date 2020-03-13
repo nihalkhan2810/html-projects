@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>registration form</title>
+</head>
+<body>
+	<form>
+		<div>
+			<label>First name</label>
+			<input type="text" name="first name">
+		</div>
+		<br>
+		<div>	
+			<label>last name</label>
+			<input type="text" name="last name">
+		</div>
+		<br>
+		<div>
+			<label>date of birth</label>
+			<input type="date" name="dd/mm/yyyy">
+		</div>
+		<br>
+		<div>
+			<label>college</label>
+			<input type="text" name="college">
+			
+		</div>
+		<br>
+		<div>
+			<label>age</label>
+			<input type="age" name="age">
+		</div>
+		<br>
+		<div>
+			<label>city</label>
+			<input type="text" name="city">
+		</div>
+		<br>
+		<div>
+			<input type="submit" name="submit" value="submit">
+		</div>
+		<button type="reset" value="reset">reset</button>
+	</form>
+
+</body>
+</html>
+link:
+file:///C:/Users/Nihal%20khan/Desktop/form/index.html?first+name=&last+name=&dd%2Fmm%2Fyyyy=&college=&age=&city=&submit=submit
